@@ -1,3 +1,8 @@
+# Table of Contents
+- [Nouns](#nouns)
+- [Verbs](#verbs)
+- [Adjectives](#adjectives)
+
 Here is a dictionary containing every word in Keken.
 
 # Nouns
