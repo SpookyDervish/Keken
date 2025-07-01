@@ -9,17 +9,18 @@
 Here is a dictionary containing every word in Keken.
 
 ## Common Phrases
-| Keken   | English Translation |
-| ------- | ------------------- |
-| maiya   | (informal, greeting used around friends): hey |
-| hwádan  | (formal, how you’d speak to teachers / people you don’t know): hello |
-| wemaiya | (highly formal, rare): greetings |
-| taitamţa palta? | How are you? (more accurately: do you feel something?) |
-| tara | thanks / thank you |
+
+| Keken           | English Translation |
+| --------------- | ------------------- |
+| maiya   | hey, hi |
+| hwádan  | hello |
+| wemaiya | greetings |
+| taitamţa palta? | How are you? |
+| tara | thanks, thank you |
 | báká | bye |
 | kotakţa | I am... |
 | tamtakţa | You are... |
-| zai | Damn / Wow |
+| zai | Damn, Wow |
 
 ## Nouns
 
