@@ -1,6 +1,7 @@
 Here is a dictionary containing every word in Keken.
 
 # Nouns
+
 | Keken | English Translation |
 | ----- | ------------------- |
 | cav | House or Home |
@@ -62,6 +63,7 @@ Here is a dictionary containing every word in Keken.
 | sele | sky |
 
 # Verbs
+
 | Keken  | English Translation                    |
 | ------ | -------------------------------------- |
 | ki     | to like something                      |
@@ -103,6 +105,7 @@ Here is a dictionary containing every word in Keken.
 | il     | to rejoice |
 
 # Adjectives
+
 | Keken | English Translation |
 |-|-|
 | ke | good |
