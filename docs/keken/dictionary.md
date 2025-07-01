@@ -83,6 +83,7 @@ Here is a dictionary containing every word in Keken.
 | vie | hell |
 | walas | heaven |
 | sele | sky |
+| malös | fish |
 
 ## Verbs
 

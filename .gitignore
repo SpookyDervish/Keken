@@ -5,6 +5,10 @@
 !.gitignore
 !docs/*
 !/docs/*/*
+!main.py
+!model.py
+!data.py
+!tokenizer.py
 # etc...
 
 # ...even if they are in subdirectories
