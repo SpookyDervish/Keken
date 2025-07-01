@@ -21,8 +21,9 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 
 # Prefixes
 ## Noun Prefixes
+
 | Keken | English |
-| :---- | :---- |
+| --------- | ----------- |
 | **ke** | Good / positive |
 | **de** | Bad / negative |
 | **val** | Definite |
@@ -35,8 +36,9 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **pala** | Their {noun} |
 
 ## Verb Prefixes
+
 | Keken | Meaning |
-| :---- | :---- |
+| ---------- | ---------- |
 | **lok** | It is the subject of the verb |
 | **mep** | This/that is the subject of the verb |
 | **to** | He is the subject of the verb |
@@ -62,13 +64,13 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 #### General Suffixes (Suffixes that apply to all word types)
 
 | Keken | Meaning |
-| :---- | :---- |
+| --------- | ------------ |
 | **zut** | Negate an adjective, verb, or noun |
 
 #### Verb Suffixes
 
 | Keken | Meaning |
-| :---- | :---- |
+| ------------ | ---------- |
 | **ţa** | Present tense |
 | **ku** | Future tense |
 | **alt** | Past tense |
@@ -78,7 +80,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 #### Adjective Suffixes
 
 | Keken | Meaning |
-| :---- | :---- |
+| ---------- | -------- |
 | **sá** | Very (intensify an adjective, e.g: “very fast”) |
 | **sâ** | More (say an adjective is more intense than another adjective, e.g: “I am MORE fast than you.”) |
 | **sà** | Somewhat (lower the intensity of an adjective, e.g: “somewhat fast”) |
@@ -87,7 +89,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 #### Noun Suffixes
 
 | Keken | Meaning |
-| :---- | :---- |
+| --------- | --------- |
 | **lik** | To be "like". (e.g: "hund" \- \> "dog", "hundlik" \-\> "doglike") |
 | **tsaǐ** | Age of person/pet/animal (infant) |
 | **tsaì** | Age of person/pet/animal (child) |
