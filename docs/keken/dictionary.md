@@ -2,7 +2,7 @@ Here is a dictionary containing every word in Keken.
 
 # Nouns
 | Keken | English Translation |
-| --- | --- |
+| ----- | ------------------- |
 | cav | House or Home |
 | ken | Language |
 | kal | You |
@@ -62,45 +62,45 @@ Here is a dictionary containing every word in Keken.
 | sele | sky |
 
 # Verbs
-| Keken | English Translation |
-|---|---|
-| ki | to like something |
-| duwá | to desire or love something (platonic) |
-| plaki | to love someone romantically |
-| harl | to dislike something |
-| ţwa | to eat |
-| las | to drink |
-| marko | to float |
-| saiţa | to go somewhere |
-| panali | to move a short distance |
-| tai | to feel an emotion |
-| tak | to be something |
-| si | to do something |
-| s̄am | to stink |
-| snaile | to smell something |
-| stųp | to stop doing something |
-| stai | to start doing something |
-| ţamak | to hit something |
-| möá | to sleep or to rest |
-| spreţe | to speak a language |
-| mota | to walk |
-| speţi | to run |
+| Keken  | English Translation                    |
+| ------ | -------------------------------------- |
+| ki     | to like something                      |
+| duwá   | to desire or love something (platonic) |
+| plaki  | to love someone romantically           |
+| harl   | to dislike something                   |
+| ţwa    | to eat                                 |
+| las    | to drink 							  |
+| marko  | to float 							  |
+| saiţa  | to go somewhere 					   |
+| panali | to move a short distance 			  |
+| tai    | to feel an emotion 					  |
+| tak    | to be something 						  |
+| si     | to do something 						  |
+| s̄am    | to stink 							   |
+| snaile | to smell something 					  |
+| stųp   | to stop doing something 			   |
+| stai   | to start doing something 			  |
+| ţamak  | to hit something 					   |
+| möá    | to sleep or to rest                    |
+| spreţe | to speak a language                    |
+| mota   | to walk |
+| speţi  | to run |
 | spilse | to play a game |
-| s̄alse | to play an instrument or to play music |
-| pia | the become something else |
-| lokţa | to look like something |
-| zalt | to tear something |
-| asa | to be inside |
-| as̄t | to be outside |
-| kųs | to be under |
-| tųsa | to be above |
-| ţųpsa | to come from |
-| ţes̄ | to use a tool or object |
-| as̄ai | to create something |
-| sai | to see something |
-| sas̄a | to ask something |
-| haiţe | to bark (a dog bark) |
-| il | to rejoice |
+| s̄alse  | to play an instrument or to play music |
+| pia    | the become something else |
+| lokţa  | to look like something |
+| zalt   | to tear something |
+| asa    | to be inside |
+| as̄t    | to be outside |
+| kųs    | to be under |
+| tųsa   | to be above |
+| ţųpsa  | to come from |
+| ţes̄    | to use a tool or object |
+| as̄ai   | to create something |
+| sai    | to see something |
+| sas̄a   | to ask something |
+| haiţe  | to bark (a dog bark) |
+| il     | to rejoice |
 
 # Adjectives
 | Keken | English Translation |
