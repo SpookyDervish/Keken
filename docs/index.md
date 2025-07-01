@@ -24,6 +24,7 @@ English: The vegetable salads are somewhat less hard to believe.
 - [Asking Questions](keken/asking_questions.md)
 - [Commands](keken/commands.md)
 - [Keken Alphabet](keken/keken_alphabet.md)
+- [Phonology and Orthography](keken/phonology_and_orthography.md)
 
 ### The AI Model
 > Sorry, this hasn't been documented yet... 😭
