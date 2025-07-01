@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !docs/*
+!/docs/*/*
 # etc...
 
 # ...even if they are in subdirectories
