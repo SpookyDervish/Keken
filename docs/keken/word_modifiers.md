@@ -9,6 +9,7 @@
 			- [Adjective Suffixes](#adjective-suffixes)
 			- [Noun Suffixes](#noun-suffixes)
 		- [Some Info about Prefixes and Suffixes](#some-info-about-prefixes-and-suffixes)
+			- [Quick spelling rule:](#quick-spelling-rule)
 			- [Info about "ke" and "de"](#info-about-ke-and-de)
 			- [Mixing the Adjective Modifiers](#mixing-the-adjective-modifiers)
 			- [When to use gender suffixes](#when-to-use-gender-suffixes)
@@ -98,7 +99,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 
 ### Some Info about Prefixes and Suffixes
 
-*Quick spelling rule:*  
+#### Quick spelling rule:
 if a word ends in the same letter that a suffix starts with, the last letter of the word is removed. And a similar rule for prefixes, if the word starts with the same letter the prefix ends with, the first letter of the word is removed. In both cases the prefix/suffix is not modified. This is to prevent double letters which look ugly.
 
 #### Info about "ke" and "de"
@@ -120,3 +121,5 @@ Gender suffixes are used for specific words that apply to people, I’m not enti
 
 # Related Links
 - [Dictionary](dictionary.md)
+- [Asking Questions](asking_questions.md)
+- [Commands](commands.md)

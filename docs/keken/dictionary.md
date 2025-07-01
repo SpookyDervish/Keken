@@ -1,12 +1,14 @@
 # Table of Contents
-- [Nouns](#nouns)
-- [Verbs](#verbs)
-- [Adjectives](#adjectives)
+- [Dictionary](#dictionary)
+	- [Nouns](#nouns)
+	- [Verbs](#verbs)
+	- [Adjectives](#adjectives)
 - [Related Links](#related-links)
 
+# Dictionary
 Here is a dictionary containing every word in Keken.
 
-# Nouns
+## Nouns
 
 | Keken | English Translation |
 | ----- | ------------------- |
@@ -68,7 +70,7 @@ Here is a dictionary containing every word in Keken.
 | walas | heaven |
 | sele | sky |
 
-# Verbs
+## Verbs
 
 | Keken  | English Translation                    |
 | ------ | -------------------------------------- |
@@ -110,7 +112,7 @@ Here is a dictionary containing every word in Keken.
 | haiţe  | to bark (a dog bark) |
 | il     | to rejoice |
 
-# Adjectives
+## Adjectives
 
 | Keken | English Translation |
 | ----- | ------------------- |
@@ -159,3 +161,5 @@ Here is a dictionary containing every word in Keken.
 
 # Related Links
 - [Word Modifiers](word_modifiers.md)
+- [Asking Questions](asking_questions.md)
+- [Commands](commands.md)
