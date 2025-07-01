@@ -13,3 +13,4 @@ this works, but the “tam” (you prefix) is not needed. The sentence can just 
 - [Dictionary](dictionary.md)
 - [Word Modifiers](word_modifiers.md)
 - [Asking Questions](asking_questions.md)
+- [Keken Alphabet](keken_alphabet.md)

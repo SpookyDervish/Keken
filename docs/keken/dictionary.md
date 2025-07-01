@@ -163,3 +163,4 @@ Here is a dictionary containing every word in Keken.
 - [Word Modifiers](word_modifiers.md)
 - [Asking Questions](asking_questions.md)
 - [Commands](commands.md)
+- [Keken Alphabet](keken_alphabet.md)

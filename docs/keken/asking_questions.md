@@ -13,3 +13,4 @@ The thing is, Keken has no question words like “what” or “why”, they are
 - [Dictionary](dictionary.md)
 - [Word Modifiers](word_modifiers.md)
 - [Commands](commands.md)
+- [Keken Alphabet](keken_alphabet.md)
