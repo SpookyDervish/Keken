@@ -1,7 +1,10 @@
 > "Good language"
 
-# Hello!
+# Maiya!
 Keken is a conlang I created in a couple days, and these docs contain information about how I trained an AI model to translate from English to Keken.
+
+## About Keken
+Keken is a prefix and suffix heavy tonal conlang where you can often squeeze a lot of information into 2 - 3 words. Keken is also linked to my other conlang, Gorgus. Keken is inspired by German, Latin, and silliness.
 
 ## Useful Links:
 ### The Keken Language
