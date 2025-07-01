@@ -2,6 +2,7 @@
 - [Nouns](#nouns)
 - [Verbs](#verbs)
 - [Adjectives](#adjectives)
+- [Related Links](#related-links)
 
 Here is a dictionary containing every word in Keken.
 
@@ -153,3 +154,8 @@ Here is a dictionary containing every word in Keken.
 | leţe | tasty or delicious |
 | bas̄ad | beautiful |
 | kas | to be hard to believe |
+
+
+
+# Related Links
+- [Word Modifiers](word_modifiers.md)
