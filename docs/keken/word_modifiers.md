@@ -124,3 +124,4 @@ Gender suffixes are used for specific words that apply to people, I’m not enti
 - [Asking Questions](asking_questions.md)
 - [Commands](commands.md)
 - [Keken Alphabet](keken_alphabet.md)
+- [Phonology and Orphography](phonology_and_orthography.md)

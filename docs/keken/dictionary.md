@@ -178,3 +178,4 @@ Here is a dictionary containing every word in Keken.
 - [Asking Questions](asking_questions.md)
 - [Commands](commands.md)
 - [Keken Alphabet](keken_alphabet.md)
+- [Phonology and Orphography](phonology_and_orthography.md)

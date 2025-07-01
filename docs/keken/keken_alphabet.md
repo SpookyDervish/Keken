@@ -11,3 +11,4 @@ The Keken conlang has a boring one-phoneme-per-letter alphabet.
 - [Word Modifiers](word_modifiers.md)
 - [Asking Questions](asking_questions.md)
 - [Commands](commands.md)
+- [Keken Alphabet](keken_alphabet.md)
