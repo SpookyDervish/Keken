@@ -107,7 +107,7 @@ Here is a dictionary containing every word in Keken.
 # Adjectives
 
 | Keken | English Translation |
-|-|-|
+| ----- | ------------------- |
 | ke | good |
 | de | bad |
 | ţųs̄ | alright or so so |
