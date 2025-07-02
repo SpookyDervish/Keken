@@ -1,5 +1,7 @@
 # Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Dictionary](#dictionary)
+	- [Common Phrases](#common-phrases)
 	- [Nouns](#nouns)
 	- [Verbs](#verbs)
 	- [Adjectives](#adjectives)
@@ -58,6 +60,8 @@ Here is a dictionary containing every word in Keken.
 | lųsö | hand |
 | cráská | finger |
 | cröma | head |
+| vöcas | mouth |
+| sira | eye |
 | geseţ | face | 
 | hųdar | shoulder |
 | hadint | skin |
@@ -126,6 +130,7 @@ Here is a dictionary containing every word in Keken.
 | sas̄a   | to ask something |
 | haiţe  | to bark (a dog bark) |
 | il     | to rejoice |
+| giţe   | to give |
 
 ## Adjectives
 
@@ -171,7 +176,7 @@ Here is a dictionary containing every word in Keken.
 | leţe | tasty or delicious |
 | bas̄ad | beautiful |
 | kas | to be hard to believe |
-
+| dais | daily |
 
 
 # Related Links

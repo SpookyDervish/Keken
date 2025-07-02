@@ -1,4 +1,5 @@
 # Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Word Modifiers](#word-modifiers)
 - [Prefixes](#prefixes)
 	- [Noun Prefixes](#noun-prefixes)
@@ -35,6 +36,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **pis** | Your {noun} |
 | **piko** | My {noun} |
 | **pala** | Their {noun} |
+| **pili** | Our {noun} |
 
 ## Verb Prefixes
 

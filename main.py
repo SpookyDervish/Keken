@@ -159,7 +159,9 @@ def generate_data(args):
         "vie": ["hell"],
         "walas": ["heaven"],
         "sele": ["sky"],
-        "malös": ["fish"]
+        "malös": ["fish"],
+        "vöcas": ["mouth"],
+        "sira": ["eye"]
     }
     pronouns = {
         "kal": ["you", "yourself"],
@@ -177,7 +179,9 @@ def generate_data(args):
         "piko": "my {noun}",
         "pikowe": "my {noun}s",
         "pala": "their {noun}",
-        "palawe": "their {noun}s"
+        "palawe": "their {noun}s",
+        "pili": "our {noun}",
+        "piliwe": "our {noun}s",
     }
     verbs = {
         "ki": ["like"],
@@ -229,6 +233,7 @@ def generate_data(args):
         "pis": ["your"],
         "piko": ["my"],
         "pala": ["their"],
+        "pili": ["our"],
         "to": ["he"],
         "ta": ["she"],
         "ma": ["they"],
