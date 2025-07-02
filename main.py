@@ -582,7 +582,7 @@ def create_datasets(args):
         pairs = to_pairs(doc)
         progress.print("[d]Cleaning pairs..")
         cleaned_pairs = clean_pairs(pairs)
-        progress.print("[d]Saving cleaned pairs pairs..")
+        progress.print("[d]Saving cleaned pairs..")
         save_clean_data(cleaned_pairs, f"{output_name}.pkl")
 
         progress.update(task2, total=1,completed=1)
