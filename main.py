@@ -570,7 +570,7 @@ def create_datasets(args):
 
         task1 = progress.add_task("Loading dataset document..",total=None)
         task2 = progress.add_task("Creating pairs..",total=None, start=False)
-        task3 = progress.add_task("[d]Loading cleaned pairs..",total=None, start=False)
+        task3 = progress.add_task("Loading cleaned pairs..",total=None, start=False)
         task4 = progress.add_task("Seperating datasets..",total=None, start=False)
         task5 = progress.add_task("Saving datasets..", total=3, start=False)
 
