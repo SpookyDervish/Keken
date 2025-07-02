@@ -564,32 +564,56 @@ def generate_data(args):
     console.print(f"[d]Generating data took {round(time()-start, 1)} seconds.")
 
 def create_datasets(args):
-    input_name = args.input
-    output_name = args.output
+    with Progress() as progress:
+        input_name = args.input
+        output_name = args.output
 
-    doc = load_doc(f"{input_name}.txt")
-    pairs = to_pairs(doc)
-    cleaned_pairs = clean_pairs(pairs)
-    save_clean_data(cleaned_pairs, f"{output_name}.pkl")
+        task1 = progress.add_task("Loading dataset document..",total=None)
+        task2 = progress.add_task("Creating pairs..",total=None, start=False)
+        task3 = progress.add_task("[d]Loading cleaned pairs..",total=None, start=False)
+        task4 = progress.add_task("Seperating datasets..",total=None, start=False)
+        task5 = progress.add_task("Saving datasets..", total=3, start=False)
 
-    raw_data = load_clean_sentences(f"{output_name}.pkl")
+        doc = load_doc(f"{input_name}.txt")
+        progress.update(task1, total=1,completed=1)
+    
+        progress.start_task(task2)
+        progress.print("[d]Converting to pairs..")
+        pairs = to_pairs(doc)
+        progress.print("[d]Cleaning pairs..")
+        cleaned_pairs = clean_pairs(pairs)
+        progress.print("[d]Saving cleaned pairs pairs..")
+        save_clean_data(cleaned_pairs, f"{output_name}.pkl")
 
-    n_sentences = len(raw_data)
+        progress.update(task2, total=1,completed=1)
+        progress.start_task(task3)
+        
+        raw_data = load_clean_sentences(f"{output_name}.pkl")
+        progress.update(task3, total=1,completed=1)
+        progress.start_task(task4)
+        
+        n_sentences = len(raw_data)
 
-    dataset = raw_data[:n_sentences, :]
-    # shuffle data
-    shuffle(dataset)
-    train, test = dataset[:int(n_sentences*args.train_percent)], dataset[int(n_sentences*args.train_percent):]
+        dataset = raw_data[:n_sentences, :]
+        progress.print("[d]Shuffling data..")
+        # shuffle data
+        shuffle(dataset)
+        train, test = dataset[:int(n_sentences*args.train_percent)], dataset[int(n_sentences*args.train_percent):]
 
-    table = Table("[b]Total", "[b bright_green]Training", "[b bright_blue]Testing", title="Data Layout")
-    table.add_row(str(n_sentences), f"[b bright_green]{len(train)}  ({round(args.train_percent*100, 1)}%)", f"[b bright_blue]{len(test)} ({round((1-args.train_percent)*100, 1)})%")
-    console.print()
-    console.print(table)
+        table = Table("[b]Total", "[b bright_green]Training", "[b bright_blue]Testing", title="Data Layout")
+        table.add_row(str(n_sentences), f"[b bright_green]{len(train)}  ({round(args.train_percent*100, 1)}%)", f"[b bright_blue]{len(test)} ({round((1-args.train_percent)*100, 1)})%")
+        console.print()
+        console.print(table)
+        progress.update(task4, total=1,completed=1)
 
-    # save
-    save_clean_data(dataset, f"{output_name}-both.pkl")
-    save_clean_data(train, f"{output_name}-train.pkl")
-    save_clean_data(test, f"{output_name}-test.pkl")
+        # save
+        progress.start_task(task5)
+        save_clean_data(dataset, f"{output_name}-both.pkl")
+        progress.advance(task5)
+        save_clean_data(train, f"{output_name}-train.pkl")
+        progress.advance(task5)
+        save_clean_data(test, f"{output_name}-test.pkl")
+        progress.advance(task5)
 
 def train(args):
     dataset_name = args.dataset_name
