@@ -88,6 +88,7 @@ Here is a dictionary containing every word in Keken.
 | walas | heaven |
 | sele | sky |
 | malös | fish |
+| wimţel | game |
 
 ## Verbs
 
@@ -129,8 +130,10 @@ Here is a dictionary containing every word in Keken.
 | sai    | to see something |
 | sas̄a   | to ask something |
 | haiţe  | to bark (a dog bark) |
-| il     | to rejoice |
+| il     | to rejoice / to praise |
 | giţe   | to give |
+| malin | to kill something |
+| noţai | to die |
 
 ## Adjectives
 
