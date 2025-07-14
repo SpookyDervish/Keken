@@ -106,6 +106,7 @@ Here is a dictionary containing every word in Keken.
 | tai    | to feel an emotion 					  |
 | tak    | to be something 						  |
 | si     | to do something 						  |
+| hales  | to have something			          |
 | s̄am    | to stink 							   |
 | snaile | to smell something 					  |
 | stųp   | to stop doing something 			   |
