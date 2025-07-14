@@ -134,6 +134,8 @@ Here is a dictionary containing every word in Keken.
 | giţe   | to give |
 | malin | to kill something |
 | noţai | to die |
+| nami | to be called something / to have a name |
+| seţals | to translate to something else |
 
 ## Adjectives
 
@@ -180,6 +182,7 @@ Here is a dictionary containing every word in Keken.
 | bas̄ad | beautiful |
 | kas | to be hard to believe |
 | dais | daily |
+| lųmis | bright / neon colour |
 
 
 # Related Links
