@@ -18,8 +18,8 @@
 
 
 # Word Modifiers
-Keken is kind of like Latin, because you have prefixes and suffixes and stuff…
-With word modifiers (prefixes or suffixes), some of them use diacritical marks to determine different versions of the same prefix / suffix. (age being an example). These diacritical marks change the pitch of the final vowel. `(I hope I'm making a tonal language correctly... 😭)`
+Keken is kind of like Latin, because you have prefixes and suffixes and stuff...   
+With word modifiers (prefixes or suffixes), some of them use diacritical marks to determine  different versions of the same prefix / suffix. (age being an example). These diacritical marks  change the pitch of the final vowel. `(I hope I'm making a tonal language correctly... 😭)`  
 
 # Prefixes
 ## Noun Prefixes
