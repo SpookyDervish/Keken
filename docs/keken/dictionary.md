@@ -87,6 +87,7 @@ Here is a dictionary containing every word in Keken.
 | bröţ | bread |
 | samat | king |
 | omnis | everything |
+| omnēlţe | everyone |
 | baţal | war |
 | vie | hell |
 | walas | heaven |
