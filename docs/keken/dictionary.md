@@ -23,6 +23,10 @@ Here is a dictionary containing every word in Keken.
 | kotakţa | I am... |
 | tamtakţa | You are... |
 | zai | Damn, Wow |
+| Kospreţeţa Keken. | I speak Keken. |
+| Kospreţeţa Enginiţ. | I speak English. |
+| Spreţetamţa Keken? | Do you speak Keken? |
+| Spreţetamţa Enginiţ? | Do you speak English? |
 
 ## Nouns
 
