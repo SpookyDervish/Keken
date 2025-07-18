@@ -11,6 +11,7 @@ All adverbs are based on adjectives. Just give an adjective the “ē” ending
 “s̄ais” - soft  
 “s̄aisē” - softly  
 Some adverbs have specific meanings, for instance, the adverb form of “miţa” (which means respectfully) translates to “please”.  
+Adverbs always come before the verb.  
 
 # Related Links
 - [Dictionary](dictionary.md)
