@@ -32,3 +32,4 @@
 - [Asking Questions](asking_questions.md)
 - [Commands](commands.md)
 - [Keken Alphabet](keken_alphabet.md)
+- [Adverbs](adverbs.md)

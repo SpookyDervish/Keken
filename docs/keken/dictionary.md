@@ -198,3 +198,4 @@ Here is a dictionary containing every word in Keken.
 - [Commands](commands.md)
 - [Keken Alphabet](keken_alphabet.md)
 - [Phonology and Orphography](phonology_and_orthography.md)
+- [Adverbs](adverbs.md)

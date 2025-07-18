@@ -15,3 +15,4 @@ this works, but the “tam” (you prefix) is not needed. The sentence can just 
 - [Asking Questions](asking_questions.md)
 - [Keken Alphabet](keken_alphabet.md)
 - [Phonology and Orphography](phonology_and_orthography.md)
+- [Adverbs](adverbs.md)
