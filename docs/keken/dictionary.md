@@ -189,6 +189,7 @@ Here is a dictionary containing every word in Keken.
 | kas | to be hard to believe |
 | dais | daily |
 | lųmis | bright / neon colour |
+| mösi | able / has the ability to do something |
 
 
 # Related Links
