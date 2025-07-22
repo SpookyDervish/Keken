@@ -74,11 +74,11 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 
 | Keken | Meaning |
 | ------------ | ---------- |
-| **ţa** | Present tense |
-| **ku** | Future tense |
-| **alt** | Past tense |
-| **ka** | To completely finish an action |
-| **lom** | The verb is required to happen (e.g.: i NEED to eat) |
+| **ţ** | Present tense |
+| **k** | Future tense |
+| **s** | Past tense |
+| **m** | To completely finish an action |
+| **l** | The verb is required to happen (e.g.: i must eat) |
 
 #### Adjective Suffixes
 
