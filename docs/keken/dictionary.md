@@ -152,6 +152,7 @@ Here is a dictionary containing every word in Keken.
 | sųlasol | to be born |
 | sailai | to be gifted with something |
 | ala | to act upon something / to perform an action |
+| halam | to hurt something else |
 
 ## Adjectives
 
