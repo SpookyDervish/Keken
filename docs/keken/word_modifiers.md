@@ -56,6 +56,9 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **li** | Just means “or” in English |
 | **bų** | Just means “but” in English |
 | **lö** | Just means “also” in English |
+| **nö** | Just means “in” in English |
+| **nų** | Just means “with” in English |
+| **bi** | Just means “of” in English |
 | **zol** | Infinitive |
 | **su** | Directional prefix for "off" |
 | **ru** | Directional prefix for "away" |
@@ -103,7 +106,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 ### Some Info about Prefixes and Suffixes
 
 #### Quick spelling rule:
-if a word ends in the same letter that a suffix starts with, the last letter of the word is removed. And a similar rule for prefixes, if the word starts with the same letter the prefix ends with, the first letter of the word is removed. In both cases the prefix/suffix is not modified. This is to prevent double letters which look ugly.
+if a word ends in the same letter that a suffix starts with, the last letter of the word is removed. And a similar rule for prefixes, if the word starts with the same letter the prefix ends with, the first letter of the word is removed. In both cases the prefix/suffix is not modified. This is to prevent double letters which look ugly. If a prefix ends in a vowel, and a word starts with a vowel, remove the first letter of the word before adding the prefix, this also applies to any prefixes as well.
 
 #### Info about "ke" and "de"
 

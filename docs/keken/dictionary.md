@@ -94,6 +94,13 @@ Here is a dictionary containing every word in Keken.
 | sele | sky |
 | malös | fish |
 | wimţel | game |
+| calm | dignity |
+| zam | a right / a privelege |
+| palete | reason / critical thinking |
+| morale | a moral / a value to uphold |
+| emotsa | an attitude towards something |
+| frane | a brotherhood / a friendship / an alliance |
+| wēle | eachother | 
 
 ## Verbs
 
@@ -142,6 +149,9 @@ Here is a dictionary containing every word in Keken.
 | noţai | to die |
 | nami | to be called something / to have a name |
 | seţals | to translate to something else |
+| sųlasol | to be born |
+| sailai | to be gifted with something |
+| ala | to act upon something / to perform an action |
 
 ## Adjectives
 
@@ -190,6 +200,9 @@ Here is a dictionary containing every word in Keken.
 | dais | daily |
 | lųmis | bright / neon colour |
 | mösi | able / has the ability to do something |
+| fres | to be free / to not be trapped |
+| elame | to be equal | 
+| sowal | obligated |
 
 
 # Related Links
