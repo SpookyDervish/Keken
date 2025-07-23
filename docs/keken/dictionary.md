@@ -17,16 +17,16 @@ Here is a dictionary containing every word in Keken.
 | maiya   | hey, hi |
 | hwádan  | hello |
 | wemaiya | greetings |
-| taitamţa palta? | How are you? |
+| taitamţ palta? | How are you? |
 | tara | thanks, thank you |
 | báká | bye |
-| kotakţa | I am... |
-| tamtakţa | You are... |
+| kotakţ | I am... |
+| tamtakţ | You are... |
 | zai | Damn, Wow |
-| Kospreţeţa Keken. | I speak Keken. |
-| Kospreţeţa Enginiţ. | I speak English. |
-| Spreţetamţa Keken? | Do you speak Keken? |
-| Spreţetamţa Enginiţ? | Do you speak English? |
+| Kospreţeţ Keken. | I speak Keken. |
+| Kospreţeţ Enginiţ. | I speak English. |
+| Spreţetamţ Keken? | Do you speak Keken? |
+| Spreţetamţ Enginiţ? | Do you speak English? |
 
 ## Nouns
 
