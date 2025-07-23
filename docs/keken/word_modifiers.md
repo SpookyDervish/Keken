@@ -98,6 +98,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **tsaì** | Age of person/pet/animal (child) |
 | **tsaí** | Age of person/pet/animal (teen) |
 | **tsaî** | Age of person/pet/animal (adult) |
+| **en** | Determiner for "all". (e.g: "all humans", "all dogs")
 
 ### Some Info about Prefixes and Suffixes
 
