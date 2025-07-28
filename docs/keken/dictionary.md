@@ -204,6 +204,7 @@ Here is a dictionary containing every word in Keken.
 | fres | to be free / to not be trapped |
 | elame | to be equal | 
 | sowal | obligated |
+| elen | spooky / scary |
 
 
 # Related Links
