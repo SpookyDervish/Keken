@@ -41,12 +41,12 @@ Here is a dictionary containing every word in Keken.
 | wán | cat |
 | palta | something or a thing |
 | crum | food |
-| crųs | fruit |
+| crų̊s | fruit |
 | valis | vegetable |
-| Gut | God |
+| Gųt | God |
 | pēl | person or human |
 | dai | day | 
-| noon | night | 
+| nųn | night | 
 | sut | now |
 | ţoc | later |
 | döka | today |
@@ -55,7 +55,7 @@ Here is a dictionary containing every word in Keken.
 | eset | it |
 | vost | bird |
 | dųnţ | idiot |
-| ţweve | knee |
+| ţwe̊ve | knee |
 | rųnar | leg |
 | tųs | foot |
 | mųl | toe | 
@@ -68,7 +68,7 @@ Here is a dictionary containing every word in Keken.
 | sira | eye |
 | geseţ | face | 
 | hųdar | shoulder |
-| hadint | skin |
+| hadi̊nt | skin |
 | shwųs | menu or food menu |
 | reţet | check or bill |
 | keken | self-explanatory (it’s the name of Keken |
@@ -78,7 +78,7 @@ Here is a dictionary containing every word in Keken.
 | casţ | a mixture of multiple different types of the same thing |
 | crųscasţ | fruit salad (fruit mixture) |
 | valiscasţ | vegetable salad (vegetable mixture) |
-| gene | voice |
+| ge̊ne | voice |
 | kaiţen | case or grammatical case |
 | kųsţöm | tool |
 | kųnusi | a creation or something that someone made |
@@ -89,8 +89,8 @@ Here is a dictionary containing every word in Keken.
 | omnis | everything |
 | omnēlţe | everyone |
 | baţal | war |
-| vie | hell |
-| walas | heaven |
+| vien | hell |
+| wålas | heaven |
 | sele | sky |
 | malös | fish |
 | wimţel | game |

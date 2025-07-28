@@ -25,6 +25,7 @@
 | ◌̀		 | /◌̂/   |
 | ◌̂		 | /◌᷈/   |
 | ◌̌         | /◌˧˦˨/ (there’s not an IPA symbol for falling-rising) |
+| ◌̊         | make a vowel longer |
 
 # Related Links
 - [Dictionary](dictionary.md)
