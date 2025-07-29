@@ -34,9 +34,10 @@ Here is a dictionary containing every word in Keken.
 | ----- | ------------------- |
 | cav | House or Home |
 | ken | Language |
-| kal | You |
-| zali | you (plural) |
-| mas | Me or myself |
+| kal | You pronoun |
+| zali | you (plural) pronoun |
+| mas | Me or myself pronoun |
+| en | Personal pronoun (look at the pronoun prefixes for the usage of this word) |
 | hund | dog |
 | wán | cat |
 | palta | something or a thing |
@@ -52,7 +53,6 @@ Here is a dictionary containing every word in Keken.
 | döka | today |
 | tųka | tomorrow |
 | söka | yesterday |
-| eset | it |
 | vost | bird |
 | dųnţ | idiot |
 | ţwe̊ve | knee |

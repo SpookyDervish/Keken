@@ -65,6 +65,15 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **tai** | Directional prefix for “towards” |
 | **atö** | “self” / “oneself” is the subject of the verb (“atöţes̄” means to “use oneself”) |
 
+## Subjective Personal Pronoun Prefixes
+
+| Keken  | Meaning  |
+|--------|----------|
+| **mel**en  | Him  |
+| **mal**en  | Her  |
+| **es**en  | It  |
+
+
 ### Suffixes
 
 #### General Suffixes (Suffixes that apply to all word types)
@@ -107,6 +116,11 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 
 #### Quick spelling rule:
 if a word ends in the same letter that a suffix starts with, the last letter of the word is removed. And a similar rule for prefixes, if the word starts with the same letter the prefix ends with, the first letter of the word is removed. In both cases the prefix/suffix is not modified. This is to prevent double letters which look ugly. If a prefix ends in a vowel, and a word starts with a vowel, remove the first letter of the word before adding the prefix, this also applies to any prefixes as well.
+
+### Verb Particles
+If a verb is being performed by a person, add the "o" particle before the verb as a word.  
+If a verb is being performed by an animate object that isn't a person, add the "le" particle before the verb.  
+If a verb is being performed by an inanime object then add the "la" particle before the verb.
 
 #### Info about "ke" and "de"
 
