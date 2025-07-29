@@ -34,10 +34,6 @@ Here is a dictionary containing every word in Keken.
 | ----- | ------------------- |
 | cav | House or Home |
 | ken | Language |
-| kal | You pronoun |
-| zali | you (plural) pronoun |
-| mas | Me or myself pronoun |
-| en | Personal pronoun (look at the pronoun prefixes for the usage of this word) |
 | hund | dog |
 | wán | cat |
 | palta | something or a thing |

@@ -72,6 +72,9 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **mel**en  | Him  |
 | **mal**en  | Her  |
 | **es**en  | It  |
+| **kl**en | You |
+| **s**en | Me |
+| **zl**en | You (plural) / You guys |
 
 
 ### Suffixes
