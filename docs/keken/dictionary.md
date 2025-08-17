@@ -97,6 +97,7 @@ Here is a dictionary containing every word in Keken.
 | emotsa | an attitude towards something |
 | frane | a brotherhood / a friendship / an alliance |
 | wēle | eachother | 
+| calai | idea |
 
 ## Verbs
 

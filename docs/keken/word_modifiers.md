@@ -103,6 +103,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **sâ** | More (say an adjective is more intense than another adjective, e.g: “I am MORE fast than you.”) |
 | **sà** | Somewhat (lower the intensity of an adjective, e.g: “somewhat fast”) |
 | **sǎ** | Less (san an adjective is less intense than another adjective, e.g: “I am LESS fast than you.”) |
+| **so** | Most |
 
 #### Noun Suffixes
 
