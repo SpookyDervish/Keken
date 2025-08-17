@@ -98,6 +98,7 @@ Here is a dictionary containing every word in Keken.
 | frane | a brotherhood / a friendship / an alliance |
 | wēle | eachother | 
 | calai | idea |
+| benes | a general insult |
 
 ## Verbs
 
