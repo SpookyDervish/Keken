@@ -101,6 +101,8 @@ Here is a dictionary containing every word in Keken.
 | benes | a general insult |
 | niwa | garden |
 | ongas | song |
+| sowe | shop / store |
+| pain | peanut |
 
 ## Verbs
 
