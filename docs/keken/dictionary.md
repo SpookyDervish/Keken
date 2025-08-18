@@ -100,6 +100,7 @@ Here is a dictionary containing every word in Keken.
 | calai | idea |
 | benes | a general insult |
 | sowe | shop / store |
+| pain | peanut |
 
 ## Verbs
 
