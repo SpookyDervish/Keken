@@ -104,6 +104,9 @@ Here is a dictionary containing every word in Keken.
 | sowe | shop / store |
 | pain | peanut |
 | nanas | pineapple |
+| mirisk | chicken |
+| selek | cow |
+| beren | pig |
 
 ## Verbs
 
