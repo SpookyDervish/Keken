@@ -99,6 +99,7 @@ Here is a dictionary containing every word in Keken.
 | wēle | eachother | 
 | calai | idea |
 | benes | a general insult |
+| sowe | shop / store |
 
 ## Verbs
 
