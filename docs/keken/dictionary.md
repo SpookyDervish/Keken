@@ -103,6 +103,7 @@ Here is a dictionary containing every word in Keken.
 | ongas | song |
 | sowe | shop / store |
 | pain | peanut |
+| ananas | pineapple |
 
 ## Verbs
 
