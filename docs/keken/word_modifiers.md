@@ -132,7 +132,7 @@ Ke and de can replace the adjective that would normally came before or after a w
 
 #### Mixing the Adjective Modifiers
 
-Adjective intensity modifiers and their “more” counterpart can be combined. For example, “sá” just makes an adjective more intense (like writing “very” in english), and you can combine sá and sâ to mean “far more” or “much more”, and vice versa. You can also combine the “sà” suffix (the suffix for “somewhat”) and the “sâ” suffix (the suffix for “more”), which would translate to “somewhat more”, and vice versa.
+Adjective intensity modifiers and their “more” counterpart can be combined. For example, “sá” just makes an adjective more intense (like writing “very” in english), and you can combine sá and sâ to mean “far more” or “much more”, and vice versa. You can also combine the “sà” suffix (the suffix for “somewhat”) and the “sâ” suffix (the suffix for “more”), which would translate to “somewhat more”, and vice versa. Also, normal adjectives come before nouns, no matter what. For example: "pisvalen hund" is incorrect, "valen pishund" is the correct way to order the words in the sentence.
 
 #### When to use gender suffixes
 

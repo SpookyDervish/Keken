@@ -99,6 +99,8 @@ Here is a dictionary containing every word in Keken.
 | wēle | eachother | 
 | calai | idea |
 | benes | a general insult |
+| niwa | garden |
+| ongas | song |
 
 ## Verbs
 
@@ -106,6 +108,7 @@ Here is a dictionary containing every word in Keken.
 | ------ | -------------------------------------- |
 | ki     | to like something                      |
 | duwá   | to desire or love something (platonic) |
+| dale   | to want something                      |
 | plaki  | to love someone romantically           |
 | harl   | to dislike something                   |
 | ţwa    | to eat                                 |
@@ -151,6 +154,11 @@ Here is a dictionary containing every word in Keken.
 | sailai | to be gifted with something |
 | ala | to act upon something / to perform an action |
 | halam | to hurt something else |
+| trolen | to dry something |
+| walen | to wet something |
+| vigure | to understand / to figure out |
+| walamtese | to waterboard someone |
+| nolod | to think |
 
 ## Adjectives
 
@@ -203,6 +211,7 @@ Here is a dictionary containing every word in Keken.
 | elame | to be equal | 
 | sowal | obligated |
 | elen | spooky / scary |
+| valen | favourite |
 
 
 # Related Links
