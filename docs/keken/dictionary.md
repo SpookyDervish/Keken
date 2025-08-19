@@ -218,6 +218,7 @@ Here is a dictionary containing every word in Keken.
 | sowal | obligated |
 | elen | spooky / scary |
 | valen | favourite |
+| fal | fat |
 
 
 # Related Links
