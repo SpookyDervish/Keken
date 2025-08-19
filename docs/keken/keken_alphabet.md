@@ -4,7 +4,7 @@
 
 # Keken Alphabet
 The Keken conlang has a boring one-phoneme-per-letter alphabet.
-![A picture taken by a phone showing each letter in the Keken alphabet.](alphabet.png)
+![A picture taken by a phone showing each letter in the Keken alphabet.](alphabet.jpg)
 
 # Related Pages
 - [Dictionary](dictionary.md)
