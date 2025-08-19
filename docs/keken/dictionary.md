@@ -165,6 +165,7 @@ Here is a dictionary containing every word in Keken.
 | vigure | to understand / to figure out |
 | walamtese | to waterboard someone |
 | nolod | to think |
+| hamen | to hope |
 
 ## Adjectives
 
