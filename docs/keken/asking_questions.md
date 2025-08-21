@@ -6,9 +6,23 @@
 To ask a question in Keken, it’s very similar to German (if not the same). You swap the subject and  
 the verb.  
 **Here’s an example:**  
-“Tamtakţa kimö” - You are happy.  
-“Taktamţa kimö” - Are you happy? (we swapped the prefix for you and the word “to be”)    
-The thing is, Keken has no question words like “what” or “why”, they are implied by context.  
+“tamtakţa kimö” - You are happy.  
+“o taktamţa kimö” - Are you happy? (we swapped the prefix for you and the word “to be”)    
+
+A question particle is also required to tell the difference between each type of question, you add question particles before the verb in the sentence.
+| Particle | Meaning |
+|---|---|
+| o | Are |
+| os | Were |
+| ok | Will |
+| ol | Do |
+| ols | Did |
+| le | How |
+| la | Who |
+| em | Where |
+| vai | What |
+| vel | When |
+
 
 # Related Links
 - [Dictionary](dictionary.md)

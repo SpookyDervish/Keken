@@ -19,14 +19,14 @@ Here is a dictionary containing every word in Keken.
 | wemaiya | greetings |
 | taitamţ palta? | How are you? |
 | tara | thanks, thank you |
-| báká | bye |
+| baka | bye |
 | kotakţ | I am... |
 | tamtakţ | You are... |
 | zai | Damn, Wow |
 | Kospreţeţ Keken. | I speak Keken. |
 | Kospreţeţ Enginiţ. | I speak English. |
-| Spreţetamţ Keken? | Do you speak Keken? |
-| Spreţetamţ Enginiţ? | Do you speak English? |
+| Ol spreţetamţ Keken? | Do you speak Keken? |
+| Ol spreţetamţ Enginiţ? | Do you speak English? |
 
 ## Nouns
 
