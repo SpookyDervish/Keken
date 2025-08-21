@@ -220,6 +220,7 @@ Here is a dictionary containing every word in Keken.
 | elen | spooky / scary |
 | valen | favourite |
 | fal | fat |
+| mal | ugly |
 
 
 # Related Links
