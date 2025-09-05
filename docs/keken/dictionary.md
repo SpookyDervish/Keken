@@ -166,6 +166,7 @@ Here is a dictionary containing every word in Keken.
 | walamtese | to waterboard someone |
 | nolod | to think |
 | hamen | to hope |
+| mes | to suck / to be bad |
 
 ## Adjectives
 
