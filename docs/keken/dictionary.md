@@ -84,6 +84,8 @@ Here is a dictionary containing every word in Keken.
 | samat | king |
 | omnis | everything |
 | omnēlţe | everyone |
+| dolis | nothing |
+| dolēlţe | nobody / no one |
 | baţal | war |
 | vien | hell |
 | wålas | heaven |
