@@ -107,6 +107,7 @@ Here is a dictionary containing every word in Keken.
 | mirisk | chicken |
 | selek | cow |
 | beren | pig |
+| lebe | life |
 
 ## Verbs
 
