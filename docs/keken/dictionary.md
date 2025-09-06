@@ -170,6 +170,7 @@ Here is a dictionary containing every word in Keken.
 | nolod | to think |
 | hamen | to hope |
 | mes | to suck / to be bad |
+| laţe | to anchor |
 
 ## Adjectives
 
