@@ -17,7 +17,7 @@ Here is a dictionary containing every word in Keken.
 | maiya   | hey, hi |
 | hwádan  | hello |
 | wemaiya | greetings |
-| taitamţ palta? | How are you? |
+| ol taitamţ palta? | How are you? |
 | tara | thanks, thank you |
 | baka | bye |
 | kotakţ | I am... |
