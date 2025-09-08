@@ -17,7 +17,7 @@ Here is a dictionary containing every word in Keken.
 | maiya   | hey, hi |
 | hwádan  | hello |
 | wemaiya | greetings |
-| taitamţ palta? | How are you? |
+| ol taitamţ palta? | How are you? |
 | tara | thanks, thank you |
 | baka | bye |
 | kotakţ | I am... |
@@ -84,6 +84,8 @@ Here is a dictionary containing every word in Keken.
 | samat | king |
 | omnis | everything |
 | omnēlţe | everyone |
+| dolis | nothing |
+| dolēlţe | nobody / no one |
 | baţal | war |
 | vien | hell |
 | wålas | heaven |
@@ -107,6 +109,7 @@ Here is a dictionary containing every word in Keken.
 | mirisk | chicken |
 | selek | cow |
 | beren | pig |
+| lebe | life |
 
 ## Verbs
 
@@ -166,6 +169,8 @@ Here is a dictionary containing every word in Keken.
 | walamtese | to waterboard someone |
 | nolod | to think |
 | hamen | to hope |
+| mes | to suck / to be bad |
+| laţe | to anchor |
 
 ## Adjectives
 
@@ -219,7 +224,7 @@ Here is a dictionary containing every word in Keken.
 | sowal | obligated |
 | elen | spooky / scary |
 | valen | favourite |
-| fal | fat |
+| jal | fat |
 | mal | ugly |
 
 
