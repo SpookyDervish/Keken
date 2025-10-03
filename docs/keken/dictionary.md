@@ -27,6 +27,7 @@ Here is a dictionary containing every word in Keken.
 | Kospreţeţ Enginiţ. | I speak English. |
 | Ol spreţetamţ Keken? | Do you speak Keken? |
 | Ol spreţetamţ Enginiţ? | Do you speak English? |
+| Vai takţ valbrid? | What time is it? |
 
 ## Nouns
 
@@ -110,6 +111,7 @@ Here is a dictionary containing every word in Keken.
 | selek | cow |
 | beren | pig |
 | lebe | life |
+| brid | time / a point in time, like in "what time is it?" |
 
 ## Verbs
 

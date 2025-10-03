@@ -104,6 +104,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **sà** | Somewhat (lower the intensity of an adjective, e.g: “somewhat fast”) |
 | **sǎ** | Less (san an adjective is less intense than another adjective, e.g: “I am LESS fast than you.”) |
 | **so** | Most |
+| **te** | Least |
 
 #### Noun Suffixes
 
