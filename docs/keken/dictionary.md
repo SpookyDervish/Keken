@@ -171,6 +171,7 @@ Here is a dictionary containing every word in Keken.
 | hamen | to hope |
 | mes | to suck / to be bad |
 | laţe | to anchor |
+| kavam | to destroy / to obliterate |
 
 ## Adjectives
 
