@@ -94,6 +94,7 @@ With word modifiers (prefixes or suffixes), some of them use diacritical marks t
 | **s** | Past tense |
 | **m** | To completely finish an action |
 | **l** | The verb is required to happen (e.g.: i must eat) |
+| **ab** | Turn verb to actor noun (e.g.: "teach" -> "teacher") |
 
 #### Adjective Suffixes
 
